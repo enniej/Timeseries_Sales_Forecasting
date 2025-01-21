@@ -20,6 +20,9 @@ This project focuses on developing an accurate time series sales forecasting mod
 
 * **Model Evaluation and Optimization**: Compare multiple forecasting techniques to ensure the most accurate predictions.
 
+  ![image](https://github.com/user-attachments/assets/09bea250-96db-4dd3-8ffb-414d4a6c60c9)
+
+
 ## Business Problem
 
 Tecos Group of Companies has encountered challenges in predicting sales patterns due to fluctuating market demand, seasonality, and customer preferences. The goal of this project is to implement reliable forecasting models that can aid the company in improving:
@@ -188,6 +191,6 @@ Contributions are welcome! Please follow these steps:
 
 For further inquiries or collaboration, please reach out via:
 
-* Email: your.email@example.com
-* LinkedIn: Your LinkedIn Profile
+* Email: eneojaide@gmail.com
+* LinkedIn: www.linkedin.com/in/ene-ojaide
 
