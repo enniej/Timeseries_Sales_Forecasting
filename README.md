@@ -1,4 +1,4 @@
-# Timeseries_Sales_Forecasting
+
 Time series sales forecasting project for Tecos Group of Companies. Utilising machine learning to analyse historical sales data, identify trends, and build predictive models for improved business decision-making.
 Time Series Sales Forecasting for Tecos Group of Companies
 # Time Series Sales Forecasting for Tecos Group of Companies
@@ -8,7 +8,7 @@ Time Series Sales Forecasting for Tecos Group of Companies
 
 ## Overview
 
-This project focuses on developing an accurate time series sales forecasting model for Tecos Group of Companies, a British multinational retailer. Leveraging machine learning techniques, the project aims to predict future sales trends based on historical data to assist in strategic decision-making, inventory management, and revenue optimization.
+This project focuses on developing an accurate time series sales forecasting model for Tecos Group of Companies, a multinational retailer. Leveraging machine learning techniques, the project aims to predict future sales trends based on historical data to assist in strategic decision-making, inventory management, and revenue optimization.
 
 ## Project Objectives
 
