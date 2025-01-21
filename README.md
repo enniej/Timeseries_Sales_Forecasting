@@ -4,8 +4,7 @@ Time series sales forecasting project for Tecos Group of Companies. Utilising ma
 Time Series Sales Forecasting for Tecos Group of Companies
 
 
-![image](https://github.com/user-attachments/assets/d7f9b4f5-a15d-4fb8-819d-02de65f4086d)
-
+![image](https://github.com/user-attachments/assets/9f485831-f0af-45c0-9d1e-a9401cb17cfc)
 
 
 ## Overview
